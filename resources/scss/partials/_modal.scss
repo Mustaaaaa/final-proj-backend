@@ -1,0 +1,33 @@
+
+
+.my-modal{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    color: rgb(130, 1, 1);
+    margin: 0;
+    padding: 0;
+    .my-modal__box{
+        display: flex;
+        height: 100%;
+        // padding: 10px 20px;
+        align-items: center;
+        justify-content: center;
+        span{
+            &:hover{
+                cursor: pointer;
+                font-weight: bolder;
+            }
+        }
+    }
+}
+
+
+.my-modal.visible{
+    display: block;
+}
+

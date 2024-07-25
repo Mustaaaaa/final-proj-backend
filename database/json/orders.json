@@ -1,0 +1,84 @@
+{
+    "orders": [
+        {
+            "customer_name": "Carlo Bianchi",
+            "customer_address": "Via Roma 74",
+            "customer_phone": "3486527483",
+            "customer_email": "carlo.bianchi@mail.com",
+            "details": "Abito al quarto piano, il citofono non funziona correttamente, contattatemi al telefono alla consegna.",
+            "total": 42.12
+        },
+        {
+            "customer_name": "Maria Rossi",
+            "customer_address": "Piazza Garibaldi 10",
+            "customer_phone": "3398456214",
+            "customer_email": "maria.rossi@mail.com",
+            "details": "Lasciate il pacco alla portineria.",
+            "total": 35.50
+        },
+        {
+            "customer_name": "Luca Verdi",
+            "customer_address": "Corso Italia 5",
+            "customer_phone": "3479854123",
+            "customer_email": "luca.verdi@mail.com",
+            "details": "Consegna tra le 9 e le 12, grazie.",
+            "total": 27.99
+        },
+        {
+            "customer_name": "Giulia Neri",
+            "customer_address": "Via Dante 23",
+            "customer_phone": "3287456123",
+            "customer_email": "giulia.neri@mail.com",
+            "details": "Citofono Guasti, chiamatemi al cellulare.",
+            "total": 54.30
+        },
+        {
+            "customer_name": "Matteo Bruni",
+            "customer_address": "Via Milano 12",
+            "customer_phone": "3498756123",
+            "customer_email": "matteo.bruni@mail.com",
+            "details": "Consegna nel pomeriggio.",
+            "total": 68.20
+        },
+        {
+            "customer_name": "Francesca Viola",
+            "customer_address": "Viale Marconi 45",
+            "customer_phone": "3208457612",
+            "customer_email": "francesca.viola@mail.com",
+            "details": "Suonare due volte al citofono.",
+            "total": 75.50
+        },
+        {
+            "customer_name": "Giorgio Gialli",
+            "customer_address": "Piazza Duomo 8",
+            "customer_phone": "3314785123",
+            "customer_email": "giorgio.gialli@mail.com",
+            "details": "Consegna urgente, grazie.",
+            "total": 89.90
+        },
+        {
+            "customer_name": "Sara Azzurri",
+            "customer_address": "Via Torino 30",
+            "customer_phone": "3389745123",
+            "customer_email": "sara.azzurri@mail.com",
+            "details": "Contattatemi al telefono prima di arrivare.",
+            "total": 62.15
+        },
+        {
+            "customer_name": "Antonio Marroni",
+            "customer_address": "Via Venezia 7",
+            "customer_phone": "3248756123",
+            "customer_email": "antonio.marroni@mail.com",
+            "details": "Consegna al secondo piano, ascensore disponibile.",
+            "total": 45.00
+        },
+        {
+            "customer_name": "Elena Rossi",
+            "customer_address": "Via Firenze 16",
+            "customer_phone": "3339856123",
+            "customer_email": "elena.rossi@mail.com",
+            "details": "Lasciate il pacco davanti alla porta.",
+            "total": 39.99
+        }
+    ]
+}

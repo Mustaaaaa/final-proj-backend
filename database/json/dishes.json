@@ -1,0 +1,444 @@
+{
+    "dishes": [
+        {
+            "name": "Pollo al forno",
+            "slug": "pollo-al-forno",
+            "image": "image/pollo-al-forno.jpg",
+            "description": "Pollo al forno con patate",
+            "ingredients": "Pollo, aglio, rosmarino, patate",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Fettuccine al ragù",
+            "slug": "fettuccine-al-ragù",
+            "image": "image/fettuccine-al-ragu.jpg",
+            "description": "Fettucine condite con ragù",
+            "ingredients": "Farina, carne, pomodoro",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Cicoria ripassata",
+            "slug": "cioria-ripassata",
+            "image": "image/cicoria-ripassata.jpg",
+            "description": "Cicoria ripassata in padella",
+            "ingredients": "Cicoria, aglio, peperoncino",
+            "price": 3.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Pizza Margherita",
+            "slug": "pizza-margherita",
+            "image": "image/pizza-margherita.jpg",
+            "description": "Pizza rossa con mozzarella e basilico",
+            "ingredients": "Farina, pomodoro, mozzarella, basilico",
+            "price": 7.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Pizza fiori e alici",
+            "slug": "pizza-fiori-e-alici",
+            "image": "image/pizza-fiori-e-alici.jpg",
+            "description": "Pizza bianca con fiori e alici",
+            "ingredients": "Farina, mozzarella, fiori, alici",
+            "price": 10.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Calzone cotto e formaggio",
+            "slug": "calzone-cotto-e-formaggio",
+            "image": "image/calzone-cotto-e-formaggio.jpg",
+            "description": "Pizza ripiena con prosciutto cotto e formaggio",
+            "ingredients": "Farina, foraggio, prosciutto cotto",
+            "price": 8.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Spaghetti di soia ai frutti di mare",
+            "slug": "spaghetti-di-soia-ai-frutti-di-mare",
+            "image": "image/spaghetti-di-soia-ai-frutti-di-mare.jpg",
+            "description": "Spaghetti di soia ai frutti di mare serviti sulla piastra",
+            "ingredients": "spaghetti di soia, gamberi, calamari, cozze",
+            "price": 7.00,
+            "visible": true,
+            "company_id": "3"
+        },
+        {
+            "name": "Nighiri salmone",
+            "slug": "nighiri-salmone",
+            "image": "image/nighiri-salmone.jpg",
+            "description": "2 nighiri al salmone",
+            "ingredients": "Riso, salmone",
+            "price": 3.00,
+            "visible": true,
+            "company_id": "3"
+        },
+        {
+            "name": "Ramen",
+            "slug": "ramen",
+            "image": "image/ramen.jpg",
+            "description": "Ramen, servito nel suo brodo",
+            "ingredients": "Udon, uovo, carne, verdure",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "3"
+        },
+        {
+            "name": "Nachos",
+            "slug": "nachos",
+            "image": "image/nachos.jpg",
+            "description": "Nachos di mais serviti con guacamole",
+            "ingredients": "Mais, avocado, cipolla, peperoncino",
+            "price": 4.00,
+            "visible": true,
+            "company_id": "4"
+        },
+        {
+            "name": "Burrito",
+            "slug": "burrito",
+            "image": "image/burrito.jpg",
+            "description": "Piadina ripiena di riso, fagioli e carne macinata",
+            "ingredients": "Farina, riso, fagioli, carne, spezie",
+            "price": 10.00,
+            "visible": true,
+            "company_id": "4"
+        },
+        {
+            "name": "Tacos di pollo",
+            "slug": "tacos-di-pollo",
+            "image": "image/tacos-di-pollo.jpg",
+            "description": "2 Tacos di mais con pollo, avocado e cipolla",
+            "ingredients": "Mais, pollo, avocado e cipolla",
+            "price": 8.00,
+            "visible": true,
+            "company_id": "4"
+        },
+        {
+            "name": "Kebab",
+            "slug": "kebab",
+            "image": "image/kebab.jpg",
+            "description": "Piadina con kebab",
+            "ingredients": "piadina, agnello, insalata, salsa yogurt, verza",
+            "price": 5.00,
+            "visible": true,
+            "company_id": "5"
+        },
+        {
+            "name": "Falafel",
+            "slug": "falafel",
+            "image": "image/falafel.jpg",
+            "description": "3 Polpette di ceci",
+            "ingredients": "Ceci, coriandolo, pepe",
+            "price": 3.00,
+            "visible": true,
+            "company_id": "5"
+        },
+        {
+            "name": "Baklava",
+            "slug": "baklava",
+            "image": "image/baklava.jpg",
+            "description": "Dolce",
+            "ingredients": "Zuccheo, pistacchi",
+            "price": 1.00,
+            "visible": false,
+            "company_id": "5"
+        },
+        {
+            "name": "Ostriche",
+            "slug": "ostriche",
+            "image": "image/ostriche.jpg",
+            "description": "Ostriche fresche",
+            "ingredients": "ostriche, limone",
+            "price": 5.00,
+            "visible": true,
+            "company_id": "6"
+        },
+        {
+            "name": "Spaghetti alle vongole",
+            "slug": "spaghetti-alle-vongole",
+            "image": "image/spaghetti-alle-vongole.jpg",
+            "description": "Spaghetti con vongole",
+            "ingredients": "spaghetti, vogole, aglio, peperoncino",
+            "price": 14.00,
+            "visible": true,
+            "company_id": "6"
+        },
+        {
+            "name": "Filetto alla wellington",
+            "slug": "filetto-alla-wellington",
+            "image": "image/filetto-alla-wellington.jpg",
+            "description": "Filetto in crosta di pane",
+            "ingredients": "Farina, carne, funghi",
+            "price": 20.00,
+            "visible": true,
+            "company_id": "6"
+        },
+        {
+            "name": "Carbonara",
+            "slug": "carbonara",
+            "image": "image/carbonara.jpg",
+            "description": "Rigatroni alla carbonara",
+            "ingredients": "Pasata, uovo, guanciale, pecorino",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "7"
+        },
+        {
+            "name": "Amatriciana",
+            "slug": "amatriciana",
+            "image": "image/amatriciana.jpg",
+            "description": "Mezze maniche all'amatriciana",
+            "ingredients": "Pasta, pomodoro, guanciale, pecorino",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "7"
+        },
+        {
+            "name": "Abbacchio alla scottadito",
+            "slug": "abbacchio-alla-scottadito",
+            "image": "image/abbacchio-alla-scottadito.jpg",
+            "description": "Abbacchio alla brace",
+            "ingredients": "Abbacchio, patate, rosmarino, aglio",
+            "price": 15.00,
+            "visible": true,
+            "company_id": "7"
+        },
+        {
+            "name": "Tagliere di salumi",
+            "slug": "tagliere-di-salumi",
+            "image": "",
+            "description": "Selezione di salumi",
+            "ingredients": "maiale, sale, spezie",
+            "price": 15.00,
+            "visible": true,
+            "company_id": "8"
+        },
+        {
+            "name": "Focaccia",
+            "slug": "focaccia",
+            "image": "",
+            "description": "Foccaccia cotta al forno",
+            "ingredients": "Farina, rosmarino",
+            "price": 3.00,
+            "visible": true,
+            "company_id": "8"
+        },
+        {
+            "name": "Pokè",
+            "slug": "poke",
+            "image": "",
+            "description": "Pokè di riso, edamame, salmone, avocado",
+            "ingredients": "Riso edamame, salmone, avocado",
+            "price": 10.00,
+            "visible": false,
+            "company_id": "8"
+        },
+        {
+            "name": "Gelato alla frutta",
+            "slug": "gelato-alla-futta",
+            "image": "",
+            "description": "Cono gelato",
+            "ingredients": "Fragola, limone, pesca",
+            "price": 3.50,
+            "visible": true,
+            "company_id": "9"
+        },
+        {
+            "name": "Tramezzino",
+            "slug": "tramezzino",
+            "image": "",
+            "description": "",
+            "ingredients": "Pan carrè, cotto e formaggio",
+            "price": 2.50,
+            "visible": true,
+            "company_id": "9"
+        },
+        {
+            "name": "Insalatona",
+            "slug": "insalatona",
+            "image": "",
+            "description": "",
+            "ingredients": "Isalata, olive, carote, feta",
+            "price": 8.00,
+            "visible": true,
+            "company_id": "9"
+        },
+        {
+            "name": "Tagliata di manzo",
+            "slug": "taagliata-di-manzo",
+            "image": "image/tagliata-di-manzo.jpg",
+            "description": "Cotta alla brace",
+            "ingredients": "Manzo",
+            "price": 15.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Gnocchi alla sorrentina",
+            "slug": "gnocchi-alla-sorrentina",
+            "description": "",
+            "image": "",
+            "ingredients": "Patate, pomodoro, mozzarella, grana",
+            "price": 10.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Patate al forno",
+            "slug": "patate-al-forno",
+            "description": "",
+            "image": "",
+            "ingredients": "Patate, aglio, rosmarino",
+            "price": 4.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Supplì",
+            "slug": "suppli",
+            "image": "",
+            "description": "",
+            "ingredients": "Riso, pomodoro, mozzarella, pane grattato",
+            "price": 2.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Pizza boscaiola",
+            "slug": "pizza-boscaiola",
+            "image": "",
+            "description": "",
+            "ingredients": "Farina, mozzarella, funghi, salsiccia",
+            "price": 10.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Pollo ai peperoni",
+            "slug": "pollo-ai-peperoni",
+            "image": "",
+            "description": "Pollo al tegame con peperoni",
+            "ingredients": "Pollo, aglio, rosmarino, peperoni",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "1"
+        },
+        {
+            "name": "Nighiri tonno",
+            "slug": "nighiri-tonno",
+            "image": "",
+            "description": "2 nighiri al tonno",
+            "ingredients": "Riso, tonno",
+            "price": 3.00,
+            "visible": true,
+            "company_id": "3"
+        },
+        {
+            "name": "Tacos di manzo",
+            "slug": "tacos-di-manzo",
+            "image": "",
+            "description": "2 Tacos di mais con manzo, avocado e cipolla",
+            "ingredients": "Mais, manzo, avocado e cipolla",
+            "price": 8.00,
+            "visible": true,
+            "company_id": "4"
+        },
+        {
+            "name": "Spaghetti allo scoglio",
+            "slug": "spaghetti-allo-scoglio",
+            "image": "",
+            "description": "Spaghetti con crostacei e molluschi",
+            "ingredients": "spaghetti, gamberi, scampi, cozze, vogole, aglio, peperoncino",
+            "price": 14.00,
+            "visible": true,
+            "company_id": "6"
+        },
+        {
+            "name": "Tagliere di formaggi",
+            "slug": "tagliere-di-formaggi",
+            "image": "",
+            "description": "Selezione di formaggi",
+            "ingredients": "latticini",
+            "price": 15.00,
+            "visible": true,
+            "company_id": "8"
+        },
+        {
+            "name": "Gelato alle creme",
+            "slug": "gelato-alle-creme",
+            "image": "",
+            "description": "Cono gelato",
+            "ingredients": "crema, fior di latte, cioccolato",
+            "price": 3.50,
+            "visible": true,
+            "company_id": "9"
+        },
+        {
+            "name": "Patatine fritte",
+            "slug": "patatine-fritte",
+            "image": "",
+            "description": "",
+            "ingredients": "Patatine",
+            "price": 2.00,
+            "visible": true,
+            "company_id": "2"
+        },
+        {
+            "name": "Cannelloni",
+            "slug": "cannelloni",
+            "image": "",
+            "description": "",
+            "ingredients": "Pasta all'uovo, carne, sugo",
+            "price": 10.00,
+            "visible": true,
+            "company_id": "10"
+        },
+        {
+            "name": "Prosciutto e Bufala",
+            "slug": "prosciutto-e-bufala",
+            "image": "",
+            "description": "",
+            "ingredients": "Crudo e Bufala",
+            "price": 8.00,
+            "visible": true,
+            "company_id": "10"
+        },
+        {
+            "name": "Polpette al sugo",
+            "slug": "polpette-al-sugo",
+            "image": "",
+            "description": "",
+            "ingredients": "",
+            "price": 12.00,
+            "visible": true,
+            "company_id": "10"
+        },
+        {
+            "name": "Zuppa di ceci",
+            "slug": "zuppa-di-ceci",
+            "image": "",
+            "description": "",
+            "ingredients": "",
+            "price": 7.00,
+            "visible": true,
+            "company_id": "10"
+        },
+        {
+            "name": "Broccoletti ripassati",
+            "slug": "broccoletti-ripassati",
+            "image": "",
+            "description": "",
+            "ingredients": "Broccoletti, aglio, peperoncino",
+            "price": 4.00,
+            "visible": true,
+            "company_id": "10"
+        }
+    ]
+}

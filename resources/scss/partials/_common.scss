@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+h1{
+    font-family: "Rowdies";
+}
+
+main{
+    // background-color: #FDB721;
+    background-image: url('/resources/img/sfondo-back.png');
+    background-size: cover;
+}
+
+
+.my-card{
+
+    max-width: 400px;
+}
+
+#app{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex-grow: 1;
+}
+
+
+a,
+.nav-link{
+    &:hover{
+        text-decoration: underline;
+        color: #a09f9d;
+    }
+}
+
+.text-blue{
+    color:#18475D;
+}
+.shadow{
+    filter:drop-shadow(1px 1px 2px grey)
+}
+
+.my-logo{
+    width: 100px;
+}
+
+.my-dishes-count{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
+
+.my-card-img{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.my-edit-img{
+    max-width: 500px;
+}

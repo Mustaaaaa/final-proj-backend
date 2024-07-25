@@ -1,0 +1,136 @@
+{
+    "companies": [
+      {
+        "name": "Trattoria La cucina di nonna",
+        "slug": "trattoria-la-cucina-di-nonna",
+        "image": "image/trattoria-la-cucina-di-nonna.jpg",
+        "address": "Piazza del Campo, 1",
+        "city": "Siena",
+        "vat_number": "12345678901",
+        "phone_number": "3412345678",
+        "description": "Trattoria locale",
+        "email": "cucinanonna@mail.it",
+        "user_id": "2",
+        "types": [1,7,8,9]
+      },
+      {
+        "name": "Pizzeria Il Forno a Legna",
+        "slug": "pizzeria-il-forno-a-legna",
+        "image": "image/pizzeria-il-forno-a-legna.jpg",
+        "address": "Via Napoli, 456O",
+        "city": "Roma",
+        "vat_number": "23456789012",
+        "phone_number": "3423456789",
+        "description": "Pizzeria con forno a legna",
+        "email": "fornoalegna@mail.it",
+        "user_id": "3",
+        "types": [6,9,11]
+      },
+      {
+        "name": "Ristorante La Terrazza Orientale",
+        "slug": "ristorante-la-terrazza-orientale",
+        "image": "image/ristorante-la-terrazza-orientale.jpg",
+        "address": "Via Roma, 123",
+        "city": "Napoli",
+        "vat_number": "34567890123",
+        "phone_number": "3434567890",
+        "description": "Ristorante etnico",
+        "email": "laterrazza@mail.it",
+        "user_id": "4",
+        "types": [2,4,7,8,12,17]
+      },
+      {
+        "name": "Osteria La Taverna del Teschio",
+        "slug": "osteria-la-taverna-del-teschio",
+        "image": "image/osteria-la-taverna-del-teschio.jpg",
+        "address": "Strada Maggiore, 43",
+        "city": "Bplogna",
+        "vat_number": "45678901234",
+        "phone_number": "3445678901",
+        "description": "Cibo Messicano",
+        "email": "tavernadelteschio@mail.it",
+        "user_id": "5",
+        "types": [5,8,11,16]
+      },
+      {
+        "name": "Il mago del kebab",
+        "slug": "il-mago-del-kebab",
+        "image": "image/il-mago-del-kebab.jpg",
+        "address": "Via Mario Rossi, 55",
+        "city": "Pescara",
+        "vat_number": "56789012345",
+        "phone_number": "3456789012",
+        "description": "Kebab e altre specialità",
+        "email": "magokebab@mail.it",
+        "user_id": "6",
+        "types": [3,10,11]
+      },
+      {
+        "name": "Ristorante Gourmet La Degustazione",
+        "slug": "ristorante-gourmet-la-degustazione",
+        "image": "image/ristorante-gourmet-la-degustazione.jpg",
+        "address": "Corso Vittorio Emanuele II, 89",
+        "city": "Milano",
+        "vat_number": "67890123456",
+        "phone_number": "3467890123",
+        "description": "",
+        "email": "gourmetdegustazione@mail.it",
+        "user_id": "1",
+        "types": [1,7,8]
+      },
+      {
+        "name": "Ristorante Il carciofo",
+        "slug": "ristorante-il-carciofo",
+        "image": "image/ristorante-il-carciofo.jpg",
+        "address": "Via di ponente, 257",
+        "city": "Roma",
+        "vat_number": "78901234567",
+        "phone_number": "3478901234",
+        "description": "",
+        "email": "ilcarciofo@mail.it",
+        "user_id": "1",
+        "types": [1,7,8,11,16]
+      },
+      {
+        "name": "Enoteca Il Calice di Vino",
+        "slug": "enoteca-il-calice-di-vino",
+        "image": "image/enoteca-il-calice-di-vino.jpg",
+        "address": "Riva degli Schiavoni, 301",
+        "city": "Venezia",
+        "vat_number": "89012345678",
+        "phone_number": "3489012345",
+        "description": "Aperitivi, cena e dopocena",
+        "email": "calicedivino@mail.it",
+        "user_id": "4",
+        "types": [6,9,11,13,14,15]
+      },
+      {
+        "name": "Bar Ristorante La Piazza",
+        "slug": "bar-ristorante-la-piazza",
+        "image": "image/bar-ristorante-la-piazza.jpg",
+        "address": "Piazza di Mario, 123",
+        "city": "Bergamo",
+        "vat_number": "90123456789",
+        "phone_number": "3490123456",
+        "description": "Bar gelateria",
+        "email": "lapiazza@mail.it",
+        "user_id": "5",
+        "types": [9,11,12,13,14,15]
+      },
+      {
+        "name": "Trattoria dalla sora maria",
+        "slug": "trattoria-dalla-sora-maria",
+        "image": "image/trattoria-dalla-sora-maria.jpg",
+        "address": "Corso Sempione, 35",
+        "city": "Milano",
+        "vat_number": "09876543210",
+        "phone_number": "3401234567",
+        "description": "",
+        "email": "soramaria@mail.it",
+        "user_id": "1",
+        "types": [1,7,8,14]
+      }
+    ]
+}
+  
+
